@@ -1,0 +1,101 @@
+
+
+*{
+    font-family: times new roman;
+    color:black;
+
+}
+h1 {
+
+    text-align: center;
+}
+
+body{
+    background-color: #0F325E;
+
+}
+
+form, #confirmation_box {
+    margin-left:auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius:5px;
+    width: 600px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+
+}
+
+form div{
+    padding: 20px;
+}
+
+#header{
+
+    color: black;
+    padding-top: 5px;
+
+    text-align: center;
+}
+
+
+
+table {
+    width: 500px;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius:2px;
+    border: 1px solid black;
+
+}
+td {
+
+
+    padding: 0px 10px 0px 10px;
+
+
+}
+
+
+
+
+
+
+
+#radiobuttons{
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+#subscription_year select{
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border:none;
+    background-color: gray;
+    border-radius:5px;
+
+}
+#submit_box input{
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px 10px 5px 10px;
+    border:none;
+	background-color: gray;
+    border-radius:5px;
+
+
+}
+
+
+
+.error, i{
+    color: red;
+    text-align: center;
+}
+.errora{
+    color: red;
+    font-weight: bold;
+}
